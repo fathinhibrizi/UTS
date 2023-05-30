@@ -1,0 +1,16 @@
+{
+    "name": "acer/uts",
+    "description": "UTS PEMROGRAMAN WEB LANJUTAN",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pal"
+        }
+    ],
+    "require": {}
+}
